@@ -1,16 +1,7 @@
 # youtube_video_ownloader
 
-A new Flutter project.
+Introducing the latest video downloading app developed in Flutter,
+This app is designed to provide the best video downloading experience possible. With a simple and user-friendly interface and powerful features, anyone can easily download, manage, and watch their favorite videos on their device (Android or iOS)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Lets connect on LinkedIn
+https://www.linkedin.com/in/saira-rao/
